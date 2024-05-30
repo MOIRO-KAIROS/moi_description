@@ -1,3 +1,3 @@
 # Moi_description
 
-## This codebase is forked from the [description](https://github.com/MOIRO-KAIROS/description.git). If you want to see the previous history, click on the link.
+This codebase is forked from the `MOIRO-KAIROS/description`. If you want to see the previous history, click on the [link](https://github.com/MOIRO-KAIROS/description.git).
